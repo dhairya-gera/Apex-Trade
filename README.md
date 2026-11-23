@@ -15,7 +15,7 @@ A complete, robust, multi-threaded virtual stock exchange developed in core Java
 
 ### 1.2 Step 1: Database Setup
 1. Open MySQL Command Line Client or MySQL Workbench.
-2. Run the provided schema script:
+2. Run the provided schema script: 
 ```bash
 mysql -u root -p < "sql/schema.sql"
 ```
